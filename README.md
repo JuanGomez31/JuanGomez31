@@ -12,9 +12,6 @@ I prefer backend technologies but today I find myself entering the world of fron
 - 💻 I have worked using JavaScript, PHP, MySQL, PostgreSQL, Docker, etc
 - 💬 Ask me about anything, I’m happy to help
 
-
-## Current
-
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-Juan%20Antonio%20G%C3%B3mez%20M%C3%A9ndez-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/juangomez31/)
