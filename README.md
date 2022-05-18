@@ -8,9 +8,47 @@ I prefer backend technologies but today I find myself entering the world of fron
 
 ## 📖 Some things about me...
 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Sass
 - 💻 I have worked using JavaScript, PHP, MySQL, PostgreSQL, Docker, etc
 - 💬 Ask me about anything, I’m happy to help
+
+
+## Languaje and Tools
+
+### 📚 Learned
+
+<code>
+    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</code>
+<code>
+    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</code>
+<code>
+    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</code>
+<code>
+    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+</code>
+<code>
+    <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</code>
+
+<br />
+<br />
+
+### 👨‍🎓 Learning
+
+
+<code>
+    <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+</code>
+<code>
+    <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+</code>
+
+
+<br />
+<br />
 
 ## 📫 How to reach me
 
